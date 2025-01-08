@@ -2,7 +2,7 @@
 - 2025-01-08
 
 #### 다운로드 후 실행 할 커맨드
-npm install
+npm install <br>
 npm run dev
 
 - Vite
